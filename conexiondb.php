@@ -1,5 +1,5 @@
 <?php
 	$hostdb = "localhost";
-	$usuariodb = "usDepartamento";
+	$usuariodb = "DAW206";
 	$passdb = "paso";
-	$nombredb = "jjrDBdepartamento";
+	$nombredb = "DAW206_JJRIDBDepartamentoMySQLi";
